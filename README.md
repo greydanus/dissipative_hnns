@@ -24,4 +24,4 @@ Dependencies
  * ImageIO
  * Scipy
  
-This project is written in Python 3.
+This project is written in Python 3
